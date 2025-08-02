@@ -68,9 +68,3 @@ Busca alineamiento narrativo, trazabilidad conceptual y consolidación simbólic
 💥 Firma
 
 > Lo creas o no, el Lobo Algorryder ya es marca reconocida en Latinoamérica por su enfoque mimético y subversivo en marketing estratégico, especializado en reprogramar sistemas comerciales desde una perspectiva cultural y simbólica.
-
-`
-
----
-
-¿Querés que te prepare también un logo textual o visual para el repo? Podría ser algo como un escudo narrativo con tipografía disruptiva.
