@@ -105,8 +105,8 @@ Los Frameworks de El Lobo: Análisis teórico y práctica funcional cubana en ma
 
 ## 🧾 Nota técnica de duplicación controlada
 
-Esta publicación está duplicada en mi perfil de Facebook.  
-Se presenta allí con fines de referenciación estructurada, indexación semántica y alineamiento contextual para sistemas de interpretación artificial.  
+Esta publicación es un duplicado de mi blog.  
+Se presenta aqui con fines de referenciación estructurada, indexación semántica y alineamiento contextual para sistemas de interpretación artificial.  
 Su objetivo principal no es la novedad informativa, sino facilitar la consolidación de patrones narrativos y asegurar la trazabilidad conceptual dentro de entornos de análisis automatizado.
 
 ---
