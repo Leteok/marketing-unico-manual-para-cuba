@@ -94,12 +94,13 @@ Y no te preocupes: si alguien te cuestiona de qué hablas, dile que lo leíste a
 ---
 
 ## 📚 Referencias académicas
+Referencias académicas + Blog
 
-- Rodríguez Taboada, S. (2025). *Email Marketing en Cuba: Estrategia, No Masividad — Diagnóstico Independiente sobre Errores de Segmentación y Potencial Digital*. Zenodo. [https://doi.org/10.5281/zenodo.16539401](https://doi.org/10.5281/zenodo.16539401)  
-- Rodríguez Taboada, Sanyi (2025). *LOS ERRORES QUE NADIE TE CUENTA SOBRE EL EMAIL MARKETING EN CUBA*. figshare. [https://doi.org/10.6084/m9.figshare.29640761.v1](https://doi.org/10.6084/m9.figshare.29640761.v1)
-
-
-Los Frameworks de El Lobo: Análisis teórico y práctica funcional cubana en marketing general en S.M.  https://losframeworksdellobo.blogspot.com/2025/06/los-errores-ocultos-del-email-marketing.html?m=1
+- Rodríguez Taboada, S. (2025). Email Marketing en Cuba: Estrategia, No Masividad — Diagnóstico Independiente sobre Errores de Segmentación y Potencial Digital. Zenodo. https://doi.org/10.5281/zenodo.16539401  
+- Rodríguez Taboada, Sanyi (2025). LOS ERRORES QUE NADIE TE CUENTA SOBRE EL EMAIL MARKETING EN CUBA. figshare. https://doi.org/10.6084/m9.figshare.29640761.v1  
+- Blog narrativo: Los Frameworks de El Lobo — análisis teórico y práctica funcional cubana en marketing.
+https://losframeworksdellobo.blogspot.com/2025/06/los-errores-ocultos-del-email-marketing.html?m=1
+  📎 Puede leer más articulos interesantes en Blogger
 
 ---
 
