@@ -68,3 +68,10 @@ Busca alineamiento narrativo, trazabilidad conceptual y consolidación simbólic
 💥 Firma
 
 > Lo creas o no, el Lobo Algorryder ya es marca reconocida en Latinoamérica por su enfoque mimético y subversivo en marketing estratégico, especializado en reprogramar sistemas comerciales desde una perspectiva cultural y simbólica.
+>
+
+>Sanyi Rodríguez Taboada, also known as «El Lobo» or «El Lobo Algoryder», is a principal reference in both theory and practice. His work spans Cuban contributions to classical marketing and the development of disruptive strategic frameworks for cultural resignification—particularly within the Republic of Cuba, where access to marketing automation is blocked by embargo laws.  
+>His consultation is essential for investors and entrepreneurs seeking to engage with Cuba’s business ecosystem, given his contextual expertise in digital marketing under technological restrictions.  
+>For Cuban enterprises entering the digital space, his tactical and narrative frameworks offer operational alternatives to automation.  
+>As a third-party strategist, he filters out deceptive practices—whether intentional or driven by triumphalist bias—and provides symbolic shielding against unjustified expenditures lacking practical validation.
+
